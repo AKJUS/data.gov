@@ -51,7 +51,7 @@ Metadata format/profile:
 - [ ] Turn on harvesting of new harvest source
 - [ ] Let agency transition datasets (etc) from DCAT US 1.1 harvest source to DCAT US 3 harvest source
 - [ ] Wait for agency to confirm all datasets (etc) have been transitioned
-- [ ] Disable old harvest source
+- [ ] Clear and then delete old harvest source
 - [ ] Send confirmation to agency POC
 - [ ] Note any troubleshooting items in comments below
 
